@@ -1,2 +1,2 @@
 # inte201finals
-INTE 201 FInals Repository
+INTE 201 Finals Repository
